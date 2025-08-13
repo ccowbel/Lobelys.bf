@@ -38,7 +38,7 @@ function App() {
               <strong>Currently Surviving In:</strong> My heart
             </p>
             <p>
-              <strong>My Spawn Date:</strong> 20 August 1983
+              <strong>Spawn Date:</strong> 20 August 1983
             </p>
 
             <p>
